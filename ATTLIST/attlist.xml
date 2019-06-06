@@ -1,0 +1,9 @@
+<?xml version"1.0" encoding="UTF-8"?>
+
+<TEI>
+	<header type="intestazione" lang="IT">Titolo</header>
+	<facsimile source="123" ref="text">facsimile</header>
+	<testo id="ID" type="txt">TESTO_0</testo>
+
+</TEI>
+
